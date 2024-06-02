@@ -1,0 +1,40 @@
+Column Name,Null Count,Null Proportion,XNA Count,XNA Proportion
+invt_item_key,0,0.0,0,0.0
+bus_date_key,0,0.0,0,0.0
+bus_time_key,0,0.0,0,0.0
+stk_entr_date_key,0,0.0,0,0.0
+stk_entr_rng_key,0,0.0,57246,1.0
+org_unit_key,0,0.0,1099,0.02
+invt_item_stat_key,0,0.0,0,0.0
+product_key,0,0.0,0,0.0
+suppl_key,0,0.0,0,0.0
+suppl_whlsl_key,0,0.0,57246,1.0
+suppl_pmt_rgm_key,0,0.0,57246,1.0
+best_bf_date_key,0,0.0,0,0.0
+best_bf_date_rng_key,0,0.0,57246,1.0
+repln_prior_cls_key,0,0.0,57246,1.0
+prod_mkt_bookmark_key,0,0.0,57246,1.0
+prod_mkt_project_key,0,0.0,57246,1.0
+val_add_tax_key,0,0.0,57246,1.0
+del_flag,0,0.0,0,0.0
+ins_dt,0,0.0,0,0.0
+ins_proc_id,0,0.0,0,0.0
+upd_dt,0,0.0,0,0.0
+upd_proc_id,0,0.0,0,0.0
+QTY_DUMMY,0,0.0,0,0.0
+Country Identifier,0,0.0,0,0.0
+Data Owner Identifier,0,0.0,0,0.0
+Full Package Number,41251,0.72,0,0.0
+Is Expired Returnable to Supplier,0,0.0,0,0.0
+Is Return To Supplier Flag,0,0.0,0,0.0
+Pieces In Incomplete Package Number,41251,0.72,0,0.0
+Pieces Per Package Number,0,0.0,0,0.0
+Production Batch,523,0.01,0,0.0
+Recommended Unit Retail Price,131,0.0,0,0.0
+Snapshot Date,0,0.0,0,0.0
+Source Identifier,0,0.0,0,0.0
+Source System Identifier,0,0.0,0,0.0
+Unit Acquisition Price,0,0.0,0,0.0
+Unit Acquisition Price Discounted,0,0.0,0,0.0
+BBD,0,0.0,0,0.0
+BBD_Interval,0,0.0,0,0.0

@@ -1,0 +1,9 @@
+Column Name,Null Count,Null Proportion,XNA Count,XNA Proportion
+order_cre_date_key,0,0.0,0,0.0
+pnt_of_sale_org_unit_key,0,0.0,222,0.0
+product_key,0,0.0,13,0.0
+sales_discount,1,0.0,0,0.0
+sales_gross,3,0.0,0,0.0
+sales_net,3,0.0,0,0.0
+sales_price,1,0.0,0,0.0
+sales_qty,1,0.0,0,0.0

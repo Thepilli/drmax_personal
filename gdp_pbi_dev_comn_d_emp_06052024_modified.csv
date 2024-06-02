@@ -1,0 +1,51 @@
+Unnamed: 0,column_name,distinct_count,null_count,total_null_ratio_percent,total_xna_ratio_percent,xna_count,table_name,analysis_date
+0,emp_key,17122,0,0.0%,0.01%,1,profilling\gdp_pbi_dev_comn_d_emp,02052024
+1,First Name,181,1,0.01%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+2,Last Name,1422,1,0.01%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+3,Full Name,9243,1,0.01%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+4,Gender,2,1,0.01%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+5,Birth Date,9310,0,0.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+6,Age Interval,4,1,0.01%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+7,Hire Date,3033,0,0.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+8,Job Function Source Identifier,550,1,0.01%,0.17%,29,profilling\gdp_pbi_dev_comn_d_emp,02052024
+9,Job Function Description,550,1,0.01%,0.17%,29,profilling\gdp_pbi_dev_comn_d_emp,02052024
+10,Job Function Experience,0,17122,100.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+11,Employee Direct Supervisor Name,1336,9024,52.7%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+12,Employee Direct Supervisor Email,283,9292,54.27%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+13,Organization Unit Level 1,1,2660,15.54%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+14,Organization Unit Level 2,10,2657,15.52%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+15,Organization Unit Level 3,18,2657,15.52%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+16,Organization Unit Level 4,54,2657,15.52%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+17,Organization Unit Level 5,103,2657,15.52%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+18,Organization Unit Level 6,1417,1350,7.88%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+19,Supervisor Name Level 1,0,17122,100.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+20,Supervisor Name Level 2,0,17122,100.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+21,Supervisor Name Level 3,0,17122,100.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+22,Supervisor Name Level 4,0,17122,100.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+23,Supervisor Name Level 5,0,17122,100.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+24,Supervisor Name Level 6,0,17122,100.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+25,Supervisor Email Level 1,0,17122,100.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+26,Supervisor Email Level 2,0,17122,100.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+27,Supervisor Email Level 3,0,17122,100.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+28,Supervisor Email Level 4,0,17122,100.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+29,Supervisor Email Level 5,0,17122,100.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+30,Supervisor Email Level 6,0,17122,100.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+31,Employment Type Source Identifier,20,1,0.01%,0.02%,4,profilling\gdp_pbi_dev_comn_d_emp,02052024
+32,Employment Type Description,20,1,0.01%,0.02%,4,profilling\gdp_pbi_dev_comn_d_emp,02052024
+33,Employee Contract Start Date,3996,1,0.01%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+34,Employee Contract End Date,3645,1,0.01%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+35,Employee Contract Status Detail Source Identifier,25,1,0.01%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+36,Employee Contract Status Detail Description,23,1,0.01%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+37,Employee Contract Status Description,3,1,0.01%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+38,Fixed Contract Duration Plan End Date,1130,1,0.01%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+39,Inactive Date,204,5,0.03%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+40,Source Identifier,17122,0,0.0%,0.01%,1,profilling\gdp_pbi_dev_comn_d_emp,02052024
+41,Source System Identifier,2,0,0.0%,0.01%,1,profilling\gdp_pbi_dev_comn_d_emp,02052024
+42,Country Identifier,2,0,0.0%,0.01%,1,profilling\gdp_pbi_dev_comn_d_emp,02052024
+43,Data Owner Identifier,1,1,0.01%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+44,del_flag,2,0,0.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+45,ins_dt,2,0,0.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+46,ins_proc_id,2,0,0.0%,0.01%,1,profilling\gdp_pbi_dev_comn_d_emp,02052024
+47,upd_dt,2,0,0.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+48,upd_eff_date,2,0,0.0%,0.0%,0,profilling\gdp_pbi_dev_comn_d_emp,02052024
+49,upd_proc_id,2,0,0.0%,0.01%,1,profilling\gdp_pbi_dev_comn_d_emp,02052024
